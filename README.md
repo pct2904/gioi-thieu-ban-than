@@ -1,6 +1,6 @@
 # Phan Công Tuấn
 
-![Ảnh đại diện của Tuấn]([https://photos.app.goo.gl/GAN5euo6WwGaCHU5A](https://photos.google.com/share/AF1QipMmXajs0k32ei3IRJb-wg4lpu73WuA2_cGSkvqCwXGc89kDgrUPMuV0VGKqi6EVIQ?key=bjhrbmZPWnZPU2VjazZndEJjcGhhS0I4UTZDeDhB)) 
+![Ảnh đại diện của Tuấn]([https://photos.app.goo.gl/Fx1Xb7wdankeHeNh7)) 
 
 
 Xin chào! Mình là sinh viên tại Đại học Huế, mang trong mình niềm đam mê lớn với Công nghệ Thông tin, Sư phạm Tin học và việc ứng dụng AI vào thiết kế bài giảng. Mình luôn thích tìm tòi, học hỏi các công nghệ mới để tối ưu hóa công việc và hỗ trợ cho quá trình nghiên cứu, giảng dạy sau này.
